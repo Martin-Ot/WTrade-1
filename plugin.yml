@@ -1,0 +1,11 @@
+name: WTrade
+main: eu.weltensiedler.wtrade.Main
+version: 0.2
+author: Martin_Ot
+commands:
+  handel:
+    usage: Add Abo for toggle the abo-status. Add text for writing.
+    description: Toggle Abo-State or write text.
+  $:
+    usage: Add Abo for toggle the abo-status. Add text for writing.
+    description: Toggle Abo-State or write text.
